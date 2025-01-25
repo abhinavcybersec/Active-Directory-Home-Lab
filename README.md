@@ -3,6 +3,10 @@
 This project showcases a virtual home lab designed to simulate a Windows Active Directory environment for hands-on learning in Cybersecurity and Threat Detection. The lab integrates multiple systems and tools to provide a realistic setup for testing, monitoring, and analyzing security events.
 
 ---
+### Network Toplogy Diagram
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/44bd68c0-cfda-4b35-98e5-5062c5c9a3d0" />
+
+---
 ### Environment Setup
 1. Windows Server (Active Directory):
     - Configured as a domain controller for user and resource management.
