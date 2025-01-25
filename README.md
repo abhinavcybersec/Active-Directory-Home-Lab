@@ -1,4 +1,6 @@
 # Project: Active Directory Home Lab
+🔴 **This Project is Completed, working on writing description of each virtual machine and other steps.**
+
 ### Project Overview
 This project showcases a virtual home lab designed to simulate a Windows Active Directory environment for hands-on learning in Cybersecurity and Threat Detection. The lab integrates multiple systems and tools to provide a realistic setup for testing, monitoring, and analyzing security events.
 
